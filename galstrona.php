@@ -15,7 +15,7 @@ $podstrony = [
     ],
     4 => [
         'nazwa' => 'Galeria',
-        'tresc' => 'To się nie wyświetliaasdasdadasdads'
+        'tresc' => 'To się nie wyświetli'
     ],
 ];
 
